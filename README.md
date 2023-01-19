@@ -3,8 +3,9 @@
 ## Table of Contents
 * General Info
 * Installation
-* Collaborations
+* Screenshot
 * Heroku Deployed Link
+* Collaborations
 
 ## General Information
 
@@ -12,7 +13,11 @@
 ## Installation
 * 
 
-## Collaborations
+## Screenshoy
 Email: ehamzapour@gmail.com
 
 ## Heroku Deployed Link
+
+## Collaborations
+If you would like to contribute or ask any questions please feel free to contact me.
+Email: ehamzapour@gmail.com
