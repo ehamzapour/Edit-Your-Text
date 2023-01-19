@@ -21,5 +21,5 @@ This app is a text editor that runs in the browser using the PWA critera. It fea
 https://pwa-edityourtext.herokuapp.com/
 
 ## Collaborations
-If you would like to contribute or ask any questions please feel free to contact me.
+If you would like to contribute or ask any questions please feel free to contact me.\
 Email: ehamzapour@gmail.com
