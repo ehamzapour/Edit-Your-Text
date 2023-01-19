@@ -8,15 +8,17 @@
 * Collaborations
 
 ## General Information
-
+This app is a text editor that runs in the browser using the PWA critera. It features a number of data persistence techniques that serve as reduncy in case one of the options is not supported by the browser. This application will function offline if there is no internet connection. The idb package was used to store and retrieve data. 
 
 ## Installation
-* 
+* npm i
+* npm start
 
-## Screenshoy
-Email: ehamzapour@gmail.com
+## Screenshot
+![SCREENSHOT](./client/src/images/EditYourText.png)
 
 ## Heroku Deployed Link
+
 
 ## Collaborations
 If you would like to contribute or ask any questions please feel free to contact me.
